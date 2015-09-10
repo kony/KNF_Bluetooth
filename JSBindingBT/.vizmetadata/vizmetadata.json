@@ -1,0 +1,109 @@
+{
+    "forms": {
+        "mobile": {
+            "0612302c2b3f4d24a79828bf08340e64": {
+                "0612302c2b3f4d24a79828bf08340e64": {
+                    "platforms": {
+                        "android": {},
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaan": {},
+                        "spaip": {},
+                        "spawinphone8": {},
+                        "winphone8": {}
+                    }
+                },
+                "2d2d34a738a14d2fb6baf319e68eecc9": {},
+                "640200035e52413cae14d1537b4faa39": {},
+                "6cf79e8a9b3346ca9fbd367cc0d26ca0": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "cd75e1b21661452ba5d6d9aa89a8982e": {},
+                "f31e0dd87b3f449abd865d81802706cc": {}
+            },
+            "06c460f4cec54dfbae28447475ad3d99": {
+                "06c460f4cec54dfbae28447475ad3d99": {
+                    "annotationId": "06c460f4cec54dfbae28447475ad3d99",
+                    "platforms": {
+                        "android": {},
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaan": {},
+                        "spaip": {},
+                        "spawinphone8": {},
+                        "winphone8": {}
+                    }
+                },
+                "368035c8e4c2440cb93c1ae06aad5449": {},
+                "60c4974411ac4b37bf3b01e154c527ea": {
+                    "platforms": {
+                        "android": {
+                            "psp": {}
+                        },
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a74af426b221422cbdee828f0b00d373": {}
+            },
+            "9ad790aec7b04ce299594a245c8ce165": {
+                "7a0b0560a89b4ccb9f167b32cd8e9213": {},
+                "9ad790aec7b04ce299594a245c8ce165": {
+                    "platforms": {
+                        "android": {},
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaan": {},
+                        "spaip": {},
+                        "spawinphone8": {},
+                        "winphone8": {}
+                    }
+                },
+                "f9c7dbbebb1242f5ba77444c1341c8a5": {}
+            },
+            "d96e7f01466745e0850c0623253e2aff": {
+                "1eff064226de45d09797058fdaa61c6d": {},
+                "3600e876d2b54c9dab0021ad90e71be6": {},
+                "76ecd798a8a64e63b51b4f88f5ac6b75": {},
+                "d009c5206e714bcfaf64aac367e378b9": {},
+                "d96e7f01466745e0850c0623253e2aff": {
+                    "platforms": {
+                        "android": {},
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaan": {},
+                        "spaip": {},
+                        "spawinphone8": {},
+                        "winphone8": {}
+                    }
+                }
+            }
+        }
+    },
+    "templates": {
+        "mobile": {
+            "segments": {
+                "0a858867fab342cca1adc3d2772db1f8": {
+                    "0a858867fab342cca1adc3d2772db1f8": {},
+                    "2060798b06e844069eb84b172cb2c32a": {}
+                },
+                "4e44746ca36049e5b7d507ca7fb8a622": {
+                    "4e44746ca36049e5b7d507ca7fb8a622": {},
+                    "aba6b5e32b4849a2a74542737e384ca3": {}
+                }
+            }
+        }
+    }
+}

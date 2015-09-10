@@ -1,0 +1,29 @@
+{
+	"AS_Image_a9768d3c800c4f66b9baf858a104df77": {
+		"id": "AS_Image_a9768d3c800c4f66b9baf858a104df77",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "MOVE_ACTION___onTouchStart_69f37e64d85b4e13a12b44ee5499fac2",
+				"type": "MOVE_ACTION",
+				"itemType": "FORM",
+				"itemId": "__missing_id__",
+				"widgetId": "__missing_id__",
+				"animationObject": {
+					"anchorPoint": {},
+					"stepConfig": {}
+				},
+				"config": {
+					"delay": "0",
+					"iterationCount": 1,
+					"fillMode": "kony.anim.FILL_MODE_FORWARDS",
+					"duration": "250"
+				},
+				"start": "Immediately",
+				"animationId": "MOVE_ACTION___onTouchStart_69f37e64d85b4e13a12b44ee5499fac2",
+				"displayAnimationId": "MOVE_ACTION___onTouchStart_69f37e64d85b4e13a12b44ee5499fac2",
+				"forkedPlatform": "all"
+			}
+		]
+	}
+}
