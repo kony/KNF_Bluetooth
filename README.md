@@ -15,3 +15,5 @@ This application will showcase KonyJSBindings features in a way that user can us
 # Supported platforms:
 **Mobile**
  * Android
+
+**Supported KonyStudio Version:** 7.0
