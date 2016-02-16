@@ -1,5 +1,5 @@
 # KonyNativeFunctionAPI_BT
-This application will showcase KonyJSBindings features in a way that user can use JS APIs to interact with native android Bluetooth.
+This application will showcase the Kony native function api features in a way that user can use JS APIs to interact with native android Bluetooth.
 
   - Get Available Devices.
   - Pair Available Devices.
