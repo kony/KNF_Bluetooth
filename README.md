@@ -16,4 +16,4 @@ This application will showcase the Kony native function api features in a way th
 **Mobile**
  * Android
 
-**Supported KonyStudio Version:** 7.0
+**Supported Kony Visualizer Version:** 7.0
