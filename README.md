@@ -7,10 +7,13 @@ This application will showcase the Kony native function api features in a way th
 
 #To run this app
 
-- Import the project.
-- Go to Application Properties -> Native -> Android
-- Enable Mobile First API's
-- Build and run the application
+1. Download the project zip file.
+2. Unzip the project to any folder
+3. Launch Kony Visualizer Enterprise version 7.0.
+4. Import the project by selecting the JSBindingBT folder.
+5. Go to Application Properties -> Native -> Android
+6. Enable Mobile First API's
+7. Build and run the application
 
 # Supported platforms:
 **Mobile**
